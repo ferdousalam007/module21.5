@@ -34,13 +34,24 @@ console.log(mathOperation); */
 
 // 4. comparison ()
 
-var a =50;
+/* var a =50;
 var b = 25;
 console.log(a==b);
 console.log(a>=b);
 console.log(a<=b);
-console.log(a!=b);
+console.log(a!=b); */
 
 // 5. two conditions. case-1: fulfill both conditions. case-2: fulfill at least one condition
+// var a =50;
+// var b = 25;
+// var c =50;
+// // case-1:fulfill both conditions. 
+// if(a == c && a != b){
+//     console.log("fulfill both conditions");
+// }
+// // case-2: fulfill at least one condition
+// if(a == c || a != b){
+//     console.log("fulfill at least one condition");
+// }
 
 
