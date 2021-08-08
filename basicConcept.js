@@ -54,4 +54,30 @@ console.log(a!=b); */
 //     console.log("fulfill at least one condition");
 // }
 
+// 6. if-else
+// var inputnumber =35;
+// if(inputnumber>= 80){
+//     var getGrade = "A+";
+//     console.log(getGrade);
+   
+// }else if(inputnumber>= 60){
+//    var getGrade = "A";
+//    console.log(getGrade);
+// }
+// else if(inputnumber>= 50){
+//    var getGrade = "A-";
+//    console.log(getGrade);
+// }
+// else if(inputnumber>= 40){
+//    var getGrade = "B";
+//    console.log(getGrade);
+// }
+// else if(inputnumber>= 33){
+//    var getGrade = "C";
+//    console.log(getGrade);
+//  }else{
+//    var getGrade = "no grade you got Failed";
+//    console.log(getGrade);
+// }
+
 
